@@ -17,4 +17,5 @@ A complete list of candidates who received votes
 The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote
-After programing, i was able to get result of it
+After programming, i was able to get results of it.
+I have uploaded all files from the Start code. I have created two separate folders fir PyBank and PyPoll.
